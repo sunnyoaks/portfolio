@@ -1,0 +1,101 @@
+
+* {
+  @include box-sizing;
+  line-height: $lh;
+}
+
+html,
+body {
+  color: $default-color;
+  margin: 0;
+  padding: 0;
+  text-rendering: optimizeLegibility;
+  
+}
+
+
+
+html {
+  font-family: $serif-primary;
+ 
+
+  overflow-y: scroll;
+
+  @media (min-width: 600px) {
+     font-size: $fsp;
+  }
+}
+
+body {
+  -webkit-text-size-adjust: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 400;
+    font-family: $serif-primary;
+}
+
+h1 {
+  
+  font-style: italic;
+ }
+  
+
+h2 {
+  font-size: $fsp;
+  font-weight: 600;
+  font-family: $sans-serif;
+}
+
+
+a {
+  color: $blue;
+  text-decoration: none;
+}
+
+blockquote, blockquote p {
+    font-style: italic;
+    font-size: $fs3;
+    line-height: $lh;
+    text-align: center;
+    letter-spacing: 0.003rem;
+    
+    
+    
+
+  p:last-child {
+    margin-bottom: $lh;
+  }
+}
+
+
+
+  @media (min-width: 600px) {
+    padding: 0 5rem 0 1.25rem;
+  }
+
+img {
+  display: block;
+  margin: 0 auto 0.4rem 0;
+  max-width: 100%;
+}
+
+td {
+  vertical-align: top;
+}
+
+.breathingspace {
+  display: block;
+  line-height: 8rem;
+}
+
+
+.nav-title {
+  text-transform: uppercase;
+  font-size: $fs4;
+ }

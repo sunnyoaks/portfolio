@@ -1,0 +1,55 @@
+/* LESS Document */
+
+.emotionalspace {
+  min-height: 8rem;
+  display: block;  
+  } 
+
+
+
+.catalogue {
+  &-item {
+    
+    border-bottom: 0px solid $grey-2;
+    color: $default-color;
+    padding: 0rem 0;
+    
+    &:hover .catalogue-line,
+    &:focus .catalogue-line {
+     
+      }
+    
+  
+   
+    
+    &:last-child {
+      border: 0;
+      }
+    }
+
+  &-time {
+    color: $default-tint;
+    display: block;
+    text-align: center;
+    font-family: $sans-serif;
+    letter-spacing: .5px;
+    text-transform: uppercase;
+    font-size: $fs5;
+    font-weight: $medium;
+  
+    }
+
+  &-title {
+    color: $default-shade; 
+    font-family: $serif-primary;
+    font-size: $fs3;
+    font-weight: $normal;
+    margin: 1.2rem 0 3rem 0rem;
+    text-align: center; 
+    display: block;  
+      
+    }
+    
+ }   
+
+
