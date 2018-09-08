@@ -84,13 +84,12 @@ main,
 
 footer {
   font-family: $serif-secondary;
-  color: $white;
   padding: 2rem 0;
   text-align: center;
   background-color: $dark-blue;
 
   span {
-    color: $default-color;
-    font-size: .8rem;
+    color: $white;
+    font-size: $fs5;
   }
 }
