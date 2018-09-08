@@ -21,9 +21,20 @@
     </main>
 
     <footer>
-      <span>
-        &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}. Made with Jekyll using the <a href="https://sunnyoaks.github.io/sofia/">Sofia</a> theme.
-      </span>
+     
+      <div class="left-desc">
+        <span>&copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}. </span>
+      </div>
+      
+      <div class="right-desc">
+        <h3 class="footer_nav">
+          <a href="{{ '/about' | prepend: site.baseurl }}">About & contact</a>
+        </h3>
+      </div>
+      
+      
+      
+      
     </footer>
   </body>
 </html>
