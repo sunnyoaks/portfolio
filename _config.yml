@@ -7,7 +7,7 @@ baseurl:        "/ambridge"
 # Author
 author:
   name:         Baptiste 
-  email:        -
+  email:        baptiste@gmail.com
 
 # Build settings
 markdown:       kramdown
