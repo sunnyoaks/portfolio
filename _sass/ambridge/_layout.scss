@@ -21,6 +21,8 @@ footer,
     margin: 1rem auto;
     position: relative;
     text-align: center;
+    background-color: $cream;
+    padding: 40px 0 40px 0;
   }
 
   &-title {
@@ -84,6 +86,7 @@ footer {
   font-family: $serif-secondary;
   padding: 2rem 0;
   text-align: center;
+  background-color: $dark-blue;
 
   span {
     color: $default-color;
