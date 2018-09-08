@@ -1,11 +1,9 @@
 ---
 layout: post
 title: "About"
-author: "Anna"
+author: "Baptiste"
 permalink: /about/
 ---
 
-This theme is a modification of Chester How's Tale theme. 
-
-http://chesterhow.github.io/tale
+Here you can write something about yourself... :)
 

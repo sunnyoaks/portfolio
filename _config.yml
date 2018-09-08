@@ -1,13 +1,13 @@
 # Site settings
-title:          Sofia
+title:          Amass, bridge and combine
 description:    ""
-baseurl:        "/sofia"
-#url:            "https://sunnyoaks.github.io/sofia"
+baseurl:        "/ambridge"
+#url:            "https://sunnyoaks.github.io/Ambridge"
 
 # Author
 author:
-  name:         Anna 
-  email:        anna.miczka@gmail.com
+  name:         Baptiste 
+  email:        -
 
 # Build settings
 markdown:       kramdown
