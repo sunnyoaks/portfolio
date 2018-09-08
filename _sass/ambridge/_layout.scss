@@ -5,7 +5,6 @@
 }
 
 main,
-footer,
 .nav-container {
   display: block;
   margin: 0 auto;
@@ -85,6 +84,7 @@ footer,
 
 footer {
   font-family: $serif-secondary;
+  color: $white;
   padding: 2rem 0;
   text-align: center;
   background-color: $dark-blue;
