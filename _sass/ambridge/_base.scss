@@ -59,11 +59,13 @@ a {
 }
 
 blockquote, blockquote p {
+    color: $blue;
     font-style: italic;
     font-size: $fs3;
     line-height: $lh;
     text-align: center;
     letter-spacing: 0.003rem;
+
     
     
     
