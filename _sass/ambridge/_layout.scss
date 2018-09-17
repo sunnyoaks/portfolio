@@ -28,14 +28,19 @@ main,
 
   &-title {
     @include transition(all .2s ease-out);
-    color: $default-color;
+    color: $blue;
+    
     display: inline-block;
     margin: 0;
     padding-right: .2rem;
+    
+    &:active {
+      color: $blue;
+    }
 
     &:hover,
     &:focus {
-      opacity: .6;
+      text-decoration-line: 3px;
     }
   }
 
