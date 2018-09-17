@@ -72,8 +72,12 @@ main,
 @media (min-width: 600px) {
   .nav {
     &-container {
-      max-width: 900px;
+      max-width: 950px;
       text-align: left;
+    }
+
+    &-title {
+      color: #253365;
     }
 
     ul {
@@ -81,6 +85,10 @@ main,
       position: absolute;
       right: 0;
     }
+
+    li {
+      text-transform: uppercase;
+    } 
   }
 }
 
