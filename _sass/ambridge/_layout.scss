@@ -102,8 +102,23 @@ footer {
   text-align: center;
   background-color: $dark-blue;
 
+
   span {
     color: $white;
     font-size: $fsp;
+  }
+
+  .left-desc {
+
+    position: relative;
+    float: left;
+  }
+
+  .right-desc {
+
+    align-content: center;
+    position: relative;
+    float: right;
+
   }
 }
