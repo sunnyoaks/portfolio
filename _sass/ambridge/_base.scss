@@ -30,11 +30,8 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
+
+
 h6 {
     font-weight: $normal;
     font-family: $sans-serif;
@@ -131,4 +128,10 @@ td {
 .nav-title {
   text-transform: uppercase;
   font-size: $fs4;
+ }
+
+ .AllPosts {
+  font-size: $fs2;
+  font-family: $serif-primary;	
+  font-style: italic;
  }
