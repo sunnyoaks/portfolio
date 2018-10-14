@@ -114,6 +114,8 @@ footer {
 
     :hover {
       color: $cream
+      text-decoration: underline 5px;
+
     }
 
   span {
@@ -138,6 +140,6 @@ footer {
   .footer-container {
     margin: auto;
     max-width: 950px;
-    margin: 1rem auto;
+    margin: 1rem auto 3rem auto;
   }
 }
