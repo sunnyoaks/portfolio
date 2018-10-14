@@ -19,10 +19,7 @@ main,
   padding: 2rem 0 2rem 0;
   margin-bottom: 3.5rem;
 
-    a {
-      font-weight: $medium;
-      color: $text-black;
-    }
+    
 
   &-container {
     margin: 1rem auto;
@@ -74,8 +71,9 @@ main,
   }
 
   a {
-    color: $default-color;
+    color: $text-black;
     font-family: $sans-serif;
+    font-weight: $medium;
   }
 }
 
@@ -102,8 +100,9 @@ main,
 }
 
 footer {
-  font-family: $serif-secondary;
-  padding: 2rem 0;
+  font-family: $sans-serif;
+  margin: 2em 0 0 0;
+  padding: 2rem 0 2rem 0;
   text-align: center;
   background-color: $dark-blue;
 
