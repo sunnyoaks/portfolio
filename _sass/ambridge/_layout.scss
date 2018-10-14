@@ -131,7 +131,7 @@ footer {
   }
 
   .left-desc {
-    font-family: $sans-serif;
+    font-family: $serif-primary;
     font-weight: $normal;
     font-style: italic;
     position: relative;
@@ -140,11 +140,11 @@ footer {
   }
 
   .right-desc {
+    font-family: $sans-serif;
 
     align-content: center;
     position: relative;
     float: right;
-    
 
   }
 
