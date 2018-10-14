@@ -55,7 +55,7 @@ main,
 
   li {
     @include transition(all .2s ease-out);
-    color: $default-color;
+    color: $text-black;
     display: inline-block;
     opacity: .6;
     padding: 0 2rem 0 0;
@@ -66,6 +66,8 @@ main,
 
     &:hover,
     &:focus {
+      color: $blue;
+      border-bottom: 2px solid $blue;
       opacity: 1;
     }
   }
@@ -114,7 +116,7 @@ footer {
 
     &:hover {
       color: $cream;
-      border-bottom: 4px solid $cream;
+      border-bottom: 2px solid $cream;
     }
 
   }
