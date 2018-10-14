@@ -19,6 +19,11 @@ main,
   padding: 2rem 0 2rem 0;
   margin-bottom: 3.5rem;
 
+  a {
+    font-weight: $medium;
+    color: $text-black;
+  }
+
   &-container {
     margin: 1rem auto;
     position: relative;
