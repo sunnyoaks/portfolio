@@ -105,10 +105,16 @@ footer {
   padding: 2rem 0 2rem 0;
   text-align: center;
   background-color: $dark-blue;
+  text-transform: uppercase;
+  font-weight: $medium;
 
   a {
     color: $white;
   }
+
+    :hover {
+      color: $cream
+    }
 
   span {
     color: $white;
