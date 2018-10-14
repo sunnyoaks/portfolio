@@ -42,13 +42,14 @@ h6 {
 }
 
 h1 {
-  
+  font-size: $fs3;
+  font-family: $serif-primary;	
   font-style: italic;
  }
   
 
 h2 {
-  font-size: $fs3;
+  font-size: $fs4;
   font-weight: $thick;
   font-family: $sans-serif;		
   letter-spacing: 0.13px;	
@@ -63,18 +64,19 @@ h3 {
 }
 
 h4 {
-  font-size: $fs4;
+  font-size: $fsp;
   font-family: $sans-serif;	
   font-weight: $thick;
-
+  text-transform: uppercase;
 }
 
 
 h5 {
   
-  font-size: $fsp;
+  font-size: $fs5;
   font-family: $sans-serif;	
   font-weight: $thick;
+  text-transform: uppercase;
 
 }
 
