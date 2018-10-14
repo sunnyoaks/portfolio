@@ -112,10 +112,9 @@ footer {
     color: $white;
   
 
-    :hover {
+    &:hover {
       color: $cream;
       border-bottom: 4px solid $cream;
-
     }
 
   }
