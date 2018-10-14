@@ -57,7 +57,7 @@ main,
     @include transition(all .2s ease-out);
     color: $text-black;
     display: inline-block;
-    opacity: .6;
+    opacity: .8;
     padding: 0 2rem 0 0;
 
     &:last-child {
@@ -131,7 +131,9 @@ footer {
   }
 
   .left-desc {
-
+    font-family: $sans-serif;
+    font-weight: $normal;
+    font-style: italic;
     position: relative;
     float: left;
   }

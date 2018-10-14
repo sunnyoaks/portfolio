@@ -36,8 +36,9 @@ h3,
 h4,
 h5,
 h6 {
-    font-weight: 400;
-    font-family: $serif-primary;
+    font-weight: $normal;
+    font-family: $sans-serif;
+    font-size: $fs5;
 }
 
 h1 {
@@ -47,10 +48,37 @@ h1 {
   
 
 h2 {
-  font-size: $fsp;
-  font-weight: 600;
-  font-family: $sans-serif;
+  font-size: $fs3;
+  font-weight: $thick;
+  font-family: $sans-serif;		
+  letter-spacing: 0.13px;	
 }
+
+
+h3 {
+  font-size: $fs4;
+  font-family: $serif-primary;	
+  font-style: italic;
+
+}
+
+h4 {
+  font-size: $fs4;
+  font-family: $sans-serif;	
+  font-weight: $thick;
+
+}
+
+
+h5 {
+  
+  font-size: $fsp;
+  font-family: $sans-serif;	
+  font-weight: $thick;
+
+}
+
+
 
 
 a {
