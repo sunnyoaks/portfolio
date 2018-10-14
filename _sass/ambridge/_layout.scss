@@ -102,6 +102,9 @@ footer {
   text-align: center;
   background-color: $dark-blue;
 
+  &a {
+    color: $white;
+  }
 
   span {
     color: $white;
