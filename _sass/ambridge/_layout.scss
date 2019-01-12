@@ -32,11 +32,11 @@ main,
 
   &-title {
     @include transition(all .2s ease-out);
-    color: $blue;
+    color: $dark-purple;
+    font-family: $sans-serif;
     display: inline-block;
     margin: 0;
     padding-right: .2rem;
-    font-weight: $medium;
 
     &:active {
       color: $blue;
