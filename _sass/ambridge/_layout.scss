@@ -92,11 +92,7 @@ main,
       text-align: left;
     }
 
-  .footer {
-    &-container {
-        max-width: 950px;
-        text-align: left;
-    }
+  
     
 
     ul {
@@ -122,6 +118,7 @@ footer {
   font-weight: $normal;
   overflow: auto;
 
+
   a {
     color: $white;
   
@@ -143,8 +140,14 @@ footer {
     font-weight: $normal;
     font-style: italic;
     position: relative;
-    float: left;
     text-transform: none;
+  }
+
+  @media (min-width: 600px){
+    .left-desc {
+      float: left;
+    }
+
   }
 
   .right-desc {
