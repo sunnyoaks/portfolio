@@ -2,7 +2,7 @@
 title:          Sunny oaks
 description:    ""
 baseurl:        "https://sunnyoaks.github.io/blog/"
-url:            "https://sunnyoaks.github.io/blog/"
+#url:            "https://sunnyoaks.github.io/blog/"
 
 # Author
 author:
