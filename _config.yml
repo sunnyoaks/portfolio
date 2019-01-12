@@ -1,8 +1,8 @@
 # Site settings
 title:          Amass, bridge and combine
 description:    ""
-baseurl:        "/test/"
-url:            "https://annam85.github.io/test/"
+baseurl:        "/annamstest85/"
+url:            "https://annam85.github.io/annamstest85/"
 
 # Author
 author:
