@@ -16,7 +16,7 @@ I still love to share, to write, take pictures and do art. I have missed it. My 
 That being said, I am looking forward to getting back to this practice, this time also with a little more gratitide. Hoping that you will follow me along for the journey.
 
 
-(Included a little warming photo from a couple of years ago. Life has changed a lot since back then.)
+(I included a little warming photo from a couple of years ago. Life has changed a lot since back then.)
 
 
 
