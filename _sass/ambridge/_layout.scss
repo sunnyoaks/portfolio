@@ -61,6 +61,7 @@ main,
     display: inline-block;
     opacity: .8;
     padding: 0 2rem 0 0;
+    text-transform: uppercase;
 
     &:last-child {
       padding-right: 0;
@@ -102,7 +103,7 @@ main,
     }
 
     li {
-      text-transform: uppercase;
+      //text-transform: uppercase;
     } 
   }
 }
@@ -168,7 +169,7 @@ footer {
   }
 
 
-  footer .left-desc {
+  footer .right-desc {
    float: right;
  }
 
