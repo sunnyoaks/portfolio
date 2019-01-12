@@ -90,7 +90,11 @@ main,
       text-align: left;
     }
 
-   
+  .footer {
+    &-container {
+        max-width: 950px;
+        text-align: left;
+    }
     
 
     ul {
