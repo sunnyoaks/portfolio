@@ -1,8 +1,8 @@
 # Site settings
 title:          Amass, bridge and combine
 description:    ""
-baseurl:        "/blogtest/"
-url:            "https://sunnyoaks.github.io/blogtest/"
+baseurl:        "/blog/"
+url:            "https://sunnyoaks.github.io/blog/"
 
 # Author
 author:
