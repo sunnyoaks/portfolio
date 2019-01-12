@@ -1,7 +1,7 @@
 # Site settings
 title:          Sunny oaks
 description:    ""
-baseurl:        "https://sunnyoaks.github.io/blog/"
+baseurl:        "/blog1/"
 #url:            "https://sunnyoaks.github.io/blog/"
 
 # Author
