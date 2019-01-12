@@ -33,7 +33,7 @@ main,
   &-title {
     @include transition(all .2s ease-out);
     color: $dark-purple;
-    font-family: $sans-serif;
+    font-family: $serif-primary;
     display: inline-block;
     margin: 0;
     padding-right: .2rem;
@@ -44,7 +44,7 @@ main,
 
     &:hover,
     &:focus {
-      text-decoration-line: 3px;
+      text-decoration-line: 1px;
     }
   }
 
@@ -74,15 +74,15 @@ main,
     }
 
     a:hover {
-      color: $blue;
-      border-bottom: 2px solid $blue;
+      color: $light-marsala;
+      border-bottom: 2px solid $light-marsala;
     }
   }
 
   a {
-    color: $text-black;
+    color: $dark-purple;
     font-family: $sans-serif;
-    font-weight: $normal
+    font-weight: $normal;
   }
 }
 
