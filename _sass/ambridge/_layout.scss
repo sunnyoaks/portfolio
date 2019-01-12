@@ -17,7 +17,7 @@ main,
 .nav {
   box-shadow: 0 2px 2px -2px $shadow-color;
   overflow: auto;
-  background-color: $cream;
+  background-color: $rosy-blush;
   padding: 2rem 0 2rem 0;
   margin-bottom: 3.5rem;
 
@@ -112,7 +112,7 @@ footer {
   margin: 2em 0 0 0;
   padding: 2rem 0 2rem 0;
    // text-align: center;
-  background-color: $dark-blue;
+  background-color: $dark-purple;
   text-transform: uppercase;
   font-weight: $normal;
   overflow: auto;
@@ -123,8 +123,8 @@ footer {
   
 
     &:hover {
-      color: $cream;
-      border-bottom: 2px solid $cream;
+      color: $rosy-blush;
+      border-bottom: 2px solid $rosy-blush;
     }
 
   }

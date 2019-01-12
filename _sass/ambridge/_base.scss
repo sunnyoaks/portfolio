@@ -6,7 +6,7 @@
 
 html,
 body {
-  color: $text-black;
+  color: $dark-purple;
   margin: 0;
   padding: 0;
   text-rendering: optimizeLegibility;
@@ -41,7 +41,7 @@ h6 {
 h1 {
   font-size: $fs3;
   font-family: $serif-primary;	
-  font-style: italic;
+  //font-style: italic;
   font-weight: $normal;
  }
   
@@ -88,7 +88,7 @@ a {
 }
 
 blockquote, blockquote p {
-    color: $blue;
+    color: $dark-purple;
     font-style: italic;
     font-size: $fs3;
     line-height: $lh;
@@ -127,7 +127,7 @@ td {
 
 
 .nav-title {
-  text-transform: uppercase;
+  //text-transform: uppercase;
   font-size: $fs4;
  }
 
