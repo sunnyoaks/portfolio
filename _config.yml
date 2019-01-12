@@ -1,13 +1,13 @@
 # Site settings
-title:          Amass, bridge and combine
+title:          Sunny oaks
 description:    ""
 baseurl:        "https://sunnyoaks.github.io/blog/"
 url:            "https://sunnyoaks.github.io/blog/"
 
 # Author
 author:
-  name:         Baptiste Marescaux
-  email:        baptiste@gmail.com
+  name:         Anna Miczka
+  email:       anna.miczka@gmail.com
 
 # Build settings
 markdown:       kramdown
