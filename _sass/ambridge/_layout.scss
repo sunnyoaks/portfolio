@@ -12,6 +12,8 @@ main,
   width: 80%;
 }
 
+
+
 .nav {
   box-shadow: 0 2px 2px -2px $shadow-color;
   overflow: auto;
@@ -118,6 +120,7 @@ footer {
   background-color: $dark-blue;
   text-transform: uppercase;
   font-weight: $normal;
+  overflow: auto;
 
   a {
     color: $white;
@@ -155,6 +158,7 @@ footer {
 
   .footer-container {
     margin: auto;
+    position: relative;
     max-width: 950px;
     margin: 1rem auto 3rem auto;
   }
