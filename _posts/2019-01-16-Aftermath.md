@@ -16,7 +16,7 @@ All of a sudden I felt as if the world would be closing me in with a lot of expe
 When you can't snap back, what do you do? As one of my
 [favorite writers](https://www.goodreads.com/quotes/152342-pain-reaches-the-heart-with-electrical-speed-but-truth-moves) says:
 
-"Pain reaches the heart with electrical speed, but truth moves to the heart as slowly as a glacier."
+> "Pain reaches the heart with electrical speed, but truth moves to the heart as slowly as a glacier."
 
 I think she means: you wait and you watch. 
 
