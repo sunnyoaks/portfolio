@@ -5,6 +5,7 @@ author: "Anna"
 ---
 
 <img border="0" href="https://www.flickr.com/photos/halinakema/17090716445/" src="https://farm9.staticflickr.com/8054/29835907316_a1d38c3c9c_c.jpg">
+_Photo from an old home._
 
 Today is an aftermath. An aftermath following a weekend with many difficult emotions taking place among people I had no choice than to be around. I looked forward to go back home. I thought I would feel exhilaration about walking through the door of my apartment, knowing I finally would be in my own space.
 
