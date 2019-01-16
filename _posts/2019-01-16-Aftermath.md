@@ -7,9 +7,6 @@ author: "Anna"
 <img border="0" href="https://www.flickr.com/photos/halinakema/17090716445/" src="https://farm9.staticflickr.com/8054/29835907316_a1d38c3c9c_b.jpg">
 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/halinakema/29835907316/in/dateposted/" title="_-7.jpg"><img src="https://farm9.staticflickr.com/8054/29835907316_a1d38c3c9c_b.jpg" width="1024" height="683" alt="_-7.jpg"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
 Today is an aftermath. An aftermath following a weekend with many difficult emotions taking place among people I had no choice than to be around. I looked forward to go back home. I thought I would feel exhilaration about walking through the door of my apartment, knowing I finally would be in my own space.
 
 Then when I actually unlocked my dor, dropped by suitcase and crashed on my sofa I realized not even that made me feel good. It made me feel worse than when I was enduring my stay. It was like the burden and the strength in my heart dropped at the same time. And my heart poured rage and guilt subsequently. 
