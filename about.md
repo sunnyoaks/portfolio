@@ -11,7 +11,7 @@ Got restless in Norway, moved around. Lived in St. Petersburg, Lisbon and New Yo
 
 I have a slight addiction to perfumes, art supplies and that perfect cup of cortado in the morning. Other than that I enjoy my trying to be conscious about spending time, money and attention.
 
-###### Blogs I still love reading
+##### Blogs I still love reading
 
 [Rose & Crown](http://rosencrown.blogspot.com/)
 
