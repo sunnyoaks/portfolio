@@ -22,7 +22,7 @@ One of my
 
 Something about the immediacy of emotional pain, and the want to get away from that pain, makes us forget any other state of mind exist. Sometimes it pays of to wait and watch. 
 
-After almost four attempts of writing this post I ended up with what I think is a kinder version of what I wanted to say. Part of me I just wanted to complain. Another part wanted so badly to accept feeling terrible so I could move on. And the reason why I couldn’t do the last was because I focused to much on the moving on and too little on what the pain really meant. 
+After almost four attempts of writing this post I ended up with what I think is a kinder version of what I wanted to say. Part of me I just wanted to complain. Another part wanted so badly to accept feeling terrible so I could move on. And the reason why I couldn’t do it was because I focused to much on moving on and too little on actually being in it.
 
 But the aftermath was a nice reminder to strive for moments of silence and presence. My note to self is to find ways to be present in myself again. And eventually to find time and courage to face the glacier. 
 
