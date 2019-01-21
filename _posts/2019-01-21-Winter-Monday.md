@@ -7,6 +7,8 @@ tag: "good things"
 
 <img border="0" href="https://www.flickr.com/photos/halinakema/45902068015/in/photostream/" src="https://farm8.staticflickr.com/7883/46091959024_4f3906ba4f_c.jpg">
 
+<img border="0"  src="https://farm8.staticflickr.com/7903/45902068015_440f0d26d7_c.jpg">
+
 <img border="0" href="https://www.flickr.com/photos/halinakema/31875593867/in/photostream/" src="https://farm5.staticflickr.com/4878/31875593867_011f47bcdd_c.jpg">
 
 <img border="0" href="https://www.flickr.com/photos/halinakema/46092012644/in/photostream/" src="https://farm8.staticflickr.com/7804/46092012644_af621b1b01_c.jpg">
